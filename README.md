@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**jangthesuyog300-glitch/jangthesuyog300-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✅ **Clean Code**: Readable, maintainable, and testable code
+- ✅ **Scalability**: Building solutions that grow with your needs
+- ✅ **Security First**: Prioritizing data protection and security
+- ✅ **User-Centric**: Creating intuitive and delightful user experiences
+- ✅ **Continuous Learning**: Staying updated with latest technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jangthesuyog300-glitch&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jangthesuyog300-glitch&theme=dark&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Learning & Growth
+
+<div align="center">
+
+| 📚 Currently Learning | 🚀 Next in Queue | 💡 Mastering |
+|:---:|:---:|:---:|
+| Advanced React Patterns | Kubernetes | System Design |
+| Microservices Architecture | GraphQL | Cloud Solutions |
+| DevOps Practices | Docker | Database Optimization |
+
+</div>
+
+---
+
+
